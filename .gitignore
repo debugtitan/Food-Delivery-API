@@ -1,0 +1,5 @@
+.env
+.venv
+tests
+migrate.sh
+start.sh
